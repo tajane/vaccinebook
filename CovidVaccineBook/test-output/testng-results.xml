@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18863" started-at="2021-07-21T09:50:34Z" finished-at="2021-07-21T09:50:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18863" started-at="2021-07-21T09:50:34Z" finished-at="2021-07-21T09:50:53Z">
+      <class name="vaxinetest.TestforSlot">
+        <test-method status="PASS" signature="withOutLogintest()[pri:0, instance:vaxinetest.TestforSlot@3a82f6ef]" name="withOutLogintest" duration-ms="18732" started-at="2021-07-21T09:50:34Z" finished-at="2021-07-21T09:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withOutLogintest -->
+      </class> <!-- vaxinetest.TestforSlot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
